@@ -28,7 +28,7 @@ Scenario planning dashboard comparing optimistic, base and pessimistic assumptio
 
 💰 Budget vs Actual Dashboard
 
-Dashboard for budget monitoring, variance analysis and business unit performance.
+Dashboard for budget monitoring, variance analysis and business unit performance.  
 🛠️ Technologies
 <p> <img src="https://skillicons.dev/icons?i=python" height="45"/> <img src="https://skillicons.dev/icons?i=mysql" height="45"/> <img src="https://skillicons.dev/icons?i=git" height="45"/> <img src="https://skillicons.dev/icons?i=github" height="45"/> </p>
 
